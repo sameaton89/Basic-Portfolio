@@ -1,0 +1,23 @@
+h1 {
+    font-family: "Georgia", Times, "Times New Roman", serif;
+}
+
+p {
+    font-family: "Arial", "Helvetica Neue", Helvetica, sans-serif;
+}
+
+footer {
+    font-family: "Arial", "Helvetica Neue", Helvetica, sans-serif;
+    background-color: #666666;
+}
+
+header {
+    background-color: #ffffff;
+    border: #cccccc;
+
+}
+
+#content {
+    background-color: #ffffff;
+    border: #dddddd
+}
